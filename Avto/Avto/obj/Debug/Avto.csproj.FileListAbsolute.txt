@@ -1,0 +1,8 @@
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\bin\Debug\Avto.exe.config
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\bin\Debug\Avto.exe
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\bin\Debug\Avto.pdb
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\obj\Debug\Avto.csproj.AssemblyReference.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\obj\Debug\Avto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\obj\Debug\Avto.csproj.CoreCompileInputs.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\obj\Debug\Avto.exe
+C:\Users\Genru515-56\Desktop\Курсовая работа\Avto\Avto\obj\Debug\Avto.pdb
